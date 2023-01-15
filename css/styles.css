@@ -348,6 +348,7 @@ footer {
   justify-content: center;
   gap:10px;
   padding: 0px;
+  margin-top: 20px;
 }
 .social-footer-link{
   width: 44px;
