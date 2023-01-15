@@ -107,7 +107,7 @@ body {
   background-color: var(--bg-color);
   height: 600px;
   margin: 0 auto;
-  background-image: url("/images/bgimg.jpg");
+  background-image: url("./images/bgimg.jpg");
 }
 .hero-section {
   display: flex;
