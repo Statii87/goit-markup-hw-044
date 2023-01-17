@@ -376,6 +376,7 @@ footer {
   padding: 0px;
   gap: 8px;
   margin: 100px auto 56px;
+  justify-content: center;
 }
 .project-examples {
   font-weight: 500;
@@ -412,9 +413,6 @@ footer {
   margin-top: 0px;
   margin-bottom: 20px;
   margin-left: 24px;
-}
-.project-box {
-  display: flex;
 }
 .project-img {
   display: flex;
