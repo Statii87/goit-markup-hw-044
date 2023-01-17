@@ -9,6 +9,7 @@
   --contact-footer-color: rgba(255, 255, 255, 0.6);
   --border-img-color: #eeeeee;
   --hover-bt-color: #188ce8;
+  --icon-color:#AFB1B8;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -244,7 +245,7 @@ body {
 .social-icon{
   width: 20px;
   height: 20px;
-  color: var(--description-color);
+  color: var(--icon-color);
 }
 .social-list{
   display: flex;
@@ -277,10 +278,10 @@ body {
 .customers-logo{
   width: 170px;
   height:92px;
-  border: 1px solid #AFB1B8;
+  border: 1px solid var(--icon-color);
   border-radius: 4px;
   fill: currentColor;
-  color: var(--description-color);
+  color: var(--icon-color);
 }
 .customers-logo:hover{
   color: #188ce8;
